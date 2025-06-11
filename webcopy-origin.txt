@@ -1,0 +1,292 @@
+Uri: https://healthbusinessimersoes.com/cl1-vnds-jun25/
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\cl1-vnds-jun25\index.htm
+Content Type: text/html
+
+Uri: https://healthbusinessimersoes.com/comments/feed/
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://healthbusinessimersoes.com/feed/
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://healthbusinessimersoes.com/wp-content/cache/min/1/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css?ver=1749566899
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\cache\min\1\ajax\libs\intl-tel-input\17.0.8\css\intlTelInput.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/cache/min/1/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js?ver=1749566900
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\cache\min\1\ajax\libs\intl-tel-input\17.0.8\js\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://healthbusinessimersoes.com/wp-content/cache/min/1/ajax/libs/jquery/3.4.1/jquery.min.js?ver=1749566900
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\cache\min\1\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://healthbusinessimersoes.com/wp-content/cache/min/1/wp-content/plugins/dynamic-marquee-widget/assets/css/dynamic-marquee-widget.css?ver=1749566899
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\cache\min\1\wp-content\plugins\dynamic-marquee-widget\assets\css\dynamic-marquee-widget.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/cache/min/1/wp-content/plugins/dynamic-marquee-widget/assets/js/dynamic-marquee-widget.js?ver=1749566899
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\cache\min\1\wp-content\plugins\dynamic-marquee-widget\assets\js\dynamic-marquee-widget.js
+Content Type: application/javascript
+
+Uri: https://healthbusinessimersoes.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=1749566899
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\cache\min\1\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor-pro\assets\css\conditionals\popup.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor-pro\assets\css\widget-form.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\css\widget-image-carousel.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\css\widget-nested-accordion.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-float.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInDown.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.29.1
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInUp.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/smartfunnel/assets/jquery-ui-1.12.0.custom/jquery-ui.min.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\smartfunnel\assets\jquery-ui-1.12.0.custom\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/wp-rocket/assets/img/youtube.png
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\wp-rocket\assets\img\youtube.png
+Content Type: image/png
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\wp-rocket\assets\js\lazyload\17.8.3\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://healthbusinessimersoes.com/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\plugins\wp-rocket\assets\js\wpr-beacon.min.js
+Content Type: application/javascript
+
+Uri: https://healthbusinessimersoes.com/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.4.3
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/themes/hello-elementor/style.min.css?ver=3.4.3
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/themes/hello-elementor/theme.min.css?ver=3.4.3
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2024/06/cropped-favicon-gladia-ht-2024-180x180.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2024\06\cropped-favicon-gladia-ht-2024-180x180.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2024/06/cropped-favicon-gladia-ht-2024-192x192.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2024\06\cropped-favicon-gladia-ht-2024-192x192.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2024/06/cropped-favicon-gladia-ht-2024-32x32.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2024\06\cropped-favicon-gladia-ht-2024-32x32.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/gladia_2801_f1_1.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\gladia_2801_f1_1.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/gladia_2801_f2_1.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\gladia_2801_f2_1.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/gladia_2801_f3_1.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\gladia_2801_f3_1.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/gladia_2801_f4_1.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\gladia_2801_f4_1.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/gladia_2801_q1-300x149.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\gladia_2801_q1-300x149.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/gladia_2801_q1.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\gladia_2801_q1.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/gladia_2801_q2-300x164.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\gladia_2801_q2-300x164.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/gladia_2801_q2.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\gladia_2801_q2.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/logo_health_business_2801_1-1-300x113.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\logo_health_business_2801_1-1-300x113.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/logo_health_business_2801_1-1.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\logo_health_business_2801_1-1.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/lousa_gladia_2801.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\lousa_gladia_2801.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/lupa_gladia_2801.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\lupa_gladia_2801.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/01/m_o_gladia_2801.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\01\m_o_gladia_2801.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/gladia-0502-n1.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\gladia-0502-n1.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/gladia-0502-n2.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\gladia-0502-n2.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/gladia-0502-n3.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\gladia-0502-n3.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/gladia-0502-n4.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\gladia-0502-n4.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/gladia-0502-n5.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\gladia-0502-n5.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/gladia-0502-n6.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\gladia-0502-n6.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/gladia-0502-n7.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\gladia-0502-n7.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/gladia-0502-n8.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\gladia-0502-n8.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/gladia-0502-n9.webp
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\gladia-0502-n9.webp
+Content Type: image/webp
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/Screenshot-at-Apr-10-16-39-26.png
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\Screenshot-at-Apr-10-16-39-26.png
+Content Type: image/png
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/Screenshot-at-Apr-10-16-41-39.png
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\Screenshot-at-Apr-10-16-41-39.png
+Content Type: image/png
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/Screenshot-at-Apr-10-16-42-01.png
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\Screenshot-at-Apr-10-16-42-01.png
+Content Type: image/png
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/Screenshot-at-Apr-10-16-42-31.png
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\Screenshot-at-Apr-10-16-42-31.png
+Content Type: image/png
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/Screenshot-at-Apr-10-16-42-48.png
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\Screenshot-at-Apr-10-16-42-48.png
+Content Type: image/png
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/Screenshot-at-Apr-10-16-43-05.png
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\Screenshot-at-Apr-10-16-43-05.png
+Content Type: image/png
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/Screenshot-at-Apr-10-16-43-48.png
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\Screenshot-at-Apr-10-16-43-48.png
+Content Type: image/png
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/2025/04/Screenshot-at-Apr-10-16-44-06.png
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\2025\04\Screenshot-at-Apr-10-16-44-06.png
+Content Type: image/png
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/elementor/css/post-1376.css?ver=1749489933
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\elementor\css\post-1376.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/elementor/css/post-5.css?ver=1748893250
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-content/uploads/elementor/css/post-9990.css?ver=1749482609
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-content\uploads\elementor\css\post-9990.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://healthbusinessimersoes.com/wp-json/
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://healthbusinessimersoes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhealthbusinessimersoes.com%2Fcl1-vnds-jun25%2F
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://healthbusinessimersoes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhealthbusinessimersoes.com%2Fcl1-vnds-jun25%2F&format=xml
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://healthbusinessimersoes.com/wp-json/wp/v2/pages/9990
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\wp-json\wp\v2\pages\9990
+Content Type: application/json
+
+Uri: https://healthbusinessimersoes.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\healthbusinessimersoes.com\xmlrpc.php
+Content Type: text/xml
+
